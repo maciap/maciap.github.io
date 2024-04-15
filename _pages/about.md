@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.aalto.fi/en'>Aalto University</a> martino.ciaperoni@aalto.fi
 
 profile:
   align: right
