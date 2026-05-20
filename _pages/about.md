@@ -9,7 +9,7 @@ profile:
   image: phdDefense.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Officio 2</p>
+    <p>Ufficio 2 (primo piano)</p>
     <p>Via Roma 3</p>
     <p>Pisa, Italia</p>
 
