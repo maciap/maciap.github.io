@@ -29,9 +29,7 @@ nav_order: 6
 ## Selected supervised theses
 
 - **Time Series Forecasting Meets Large Language Models**.  
-  Bachelor's thesis, 2024.  
-  [Thesis link](https://tinyurl.com/HRBscThesis)
+  Bachelor's thesis, 2024.
 
 - **Finding Structures in Document Embeddings Using Sequence Segmentation**.  
-  Master's thesis, 2024.  
-  [Thesis link](https://tinyurl.com/TDMScThesis)
+  Master's thesis, 2024.
