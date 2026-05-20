@@ -9,11 +9,11 @@ profile:
   image: phdDefense.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Office B322</p>
-    <p>Aalto University Computer Science Building (Konemiehentie 2)</p>
-    <p>Finland, 02150 Espoo</p>
+    <p>Officio 2</p>
+    <p>Via Roma 3</p>
+    <p>Pisa, Italia</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -27,3 +27,15 @@ My research interests include:
    * Interpretable machine learning and trustworthy AI. 
    * AI for science. 
    * Transformer-based language models. 
+
+## News
+
+### 2026
+
+- **Illume-4-Science ERC Proof of Concept grant awarded.**  
+  The project focuses on transparent and responsible AI for biomedical research, including cancer research and drug development.  
+  [Read the article](https://normalenews.sns.it/una-piattaforma-di-intelligenza-artificiale-trasparente-e-responsabile-in-ambito-biomedico-per-ricerche-sul-cancro-e-lo-sviluppo-di-nuovi-farmaci)
+
+- Paper accepted at **IJCAI 2026**: *Efficient optimization of fixed-length paths*, with N. Tziavelis and P. Karras.
+
+- Paper accepted at **KDD 2026**, AI4Sciences track: *Explainable AI for cancer drug response prediction: beyond univariate feature attributions*, with M. Lalli, S. Piaggesi, M. Varisco, F. Carli, R. Guidotti, D. Pedreschi, F. Raimondi, and F. Giannotti.
