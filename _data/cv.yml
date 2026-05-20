@@ -3,27 +3,41 @@
   contents:
     - name: Full Name
       value: Martino Ciaperoni
-    - name: Date of Birth
-      value: 16 Aprile 1995
+    - name: Email
+      value: martino.ciaperoni@sns.it
     - name: Languages
       value: English, Italian
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD (Computer Science) 
-      institution: Aalto University, Espoo, Finland
-      year: 2024
-    - title: MSc (Data Science)
-      institution: Sapienza University, Rome, Italy 
-      year: 2021 
-    - title: BSc (Statistics And Mathematics)
-      institution: University of Bologna, Bologna, Italy and University of Glasgow, Glasgow, Scotland (Double Degree)
-      year: 2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Researcher
-      institution: ISI Foundation
+    - title: Postdoctoral Researcher
+      institution: Scuola Normale Superiore, Pisa, Italy
+      year: 2025-present
+
+    - title: Postdoctoral Researcher
+      institution: Aalto University and Helen Oy, Espoo, Finland
+      year: 2024-2025
+
+    - title: Research Intern and Master's Thesis Student
+      institution: ISI Foundation, Turin, Italy
       year: 2018-2019
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: Aalto University, Espoo, Finland
+      year: 2019-2024
+
+    - title: MSc in Data Science
+      institution: Sapienza University of Rome, Rome, Italy
+      year: 2017-2019
+
+    - title: BSc in Statistics and Mathematics
+      institution: Alma Mater Studiorum - University of Bologna, Bologna, Italy
+      year: 2014-2017
+
+    - title: BSc in Statistics
+      institution: University of Glasgow, Glasgow, Scotland
+      year: 2017
