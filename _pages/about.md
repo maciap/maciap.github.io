@@ -39,3 +39,6 @@ My research interests include:
 - Paper accepted at **IJCAI 2026**: *Efficient optimization of fixed-length paths*, with N. Tziavelis and P. Karras.
 
 - Paper accepted at **KDD 2026**, AI4Sciences track: *Explainable AI for cancer drug response prediction: beyond univariate feature attributions*, with M. Lalli, S. Piaggesi, M. Varisco, F. Carli, R. Guidotti, D. Pedreschi, F. Raimondi, and F. Giannotti.
+
+- Paper accepted at **ECML PKDD 2026**: *Virgil: Navigating Explainability for Transformer-based Language Models*, with S. Kutluk, B. Muscato, M. Marchiori Manerba and F. Giannotti.
+
