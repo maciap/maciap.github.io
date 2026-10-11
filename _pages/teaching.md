@@ -14,15 +14,6 @@ nav_order: 4
 <div class="entry">
   <div class="entry-year">2026</div>
   <div class="entry-body">
-    <div class="entry-title">Introduction to Machine Learning <span class="entry-role">Teaching assistance</span></div>
-    <div class="entry-meta">Scuola Normale Superiore · MSc level · 6 ECTS</div>
-    <div class="entry-text">Supporting the development of course projects and evaluating student projects.</div>
-  </div>
-</div>
-
-<div class="entry">
-  <div class="entry-year">2026</div>
-  <div class="entry-body">
     <div class="entry-title">Blockchain e Intelligenza Artificiale <span class="entry-role">Guest lecturer</span></div>
     <div class="entry-meta">University of Pisa · MSc in Innovation Law for Business and Institutions</div>
     <div class="entry-text">Lecture on large language models and their main working principles.</div>

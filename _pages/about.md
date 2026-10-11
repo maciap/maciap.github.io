@@ -28,18 +28,22 @@ My work has appeared at venues including **NeurIPS**, **KDD**, **SIGMOD**, **IJC
 <div class="research-grid">
   <div class="research-card">
     <h3><i class="fa-solid fa-magnifying-glass-chart"></i> Explainable &amp; trustworthy AI</h3>
-    <p>Explaining and evaluating the behavior of large language models, including behavioral shifts, and tools for mechanistic interpretability and explainability of transformers.</p>
+    <p>Making AI systems transparent, understandable, and reliable.</p>
   </div>
   <div class="research-card">
-    <h3><i class="fa-solid fa-dna"></i> AI for science</h3>
-    <p>Machine learning and explainable AI methods that support scientific discovery, with a focus on biomedical applications.</p>
+    <h3><i class="fa-solid fa-comments"></i> Behavioral shifts in LLMs</h3>
+    <p>Understanding and explaining how the behavior of large language models changes.</p>
   </div>
   <div class="research-card">
-    <h3><i class="fa-solid fa-list-check"></i> Interpretable machine learning</h3>
-    <p>Machine learning models that are transparent by design, and reliable model selection when many models perform equally well.</p>
+    <h3><i class="fa-solid fa-flask"></i> AI for science</h3>
+    <p>AI methods that support scientific discovery.</p>
   </div>
   <div class="research-card">
-    <h3><i class="fa-solid fa-gears"></i> Efficient algorithms for data</h3>
-    <p>Scalable and principled algorithms for data mining, data management, and machine learning.</p>
+    <h3><i class="fa-solid fa-eye"></i> Interpretable machine learning</h3>
+    <p>Machine learning models that are interpretable by design.</p>
+  </div>
+  <div class="research-card">
+    <h3><i class="fa-solid fa-gears"></i> Algorithms for data</h3>
+    <p>Efficient algorithms for data mining, data management, and machine learning.</p>
   </div>
 </div>
