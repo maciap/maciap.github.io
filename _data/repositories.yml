@@ -8,12 +8,3 @@ featured:
   - repo: maciap/SaE
     description: Data and code for Sample and Expand, a method for discovering low-rank submatrices with quality guarantees.
     paper: ECML PKDD 2025
-  - repo: maciap/FairPrincipalComponents
-    description: Code for fair principal component analysis, one component at a time.
-    paper: arXiv preprint, 2025
-  - repo: maciap/HadamardDecomposition
-    description: Algorithms for the Hadamard decomposition problem.
-    paper: Data Mining and Knowledge Discovery, 2024
-  - repo: maciap/PEANUT
-    description: Workload-aware materialization for efficient junction tree inference.
-    paper: EDBT 2022

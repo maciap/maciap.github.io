@@ -5,29 +5,12 @@ permalink: /
 subtitle: Postdoctoral Researcher · <a href="https://www.sns.it/en">Scuola Normale Superiore</a>, Pisa
 
 profile:
-  image: martino_ciaperoni.jpg
-  alt: Portrait of Martino Ciaperoni
+  image: phdDefense.jpeg
+  alt: Martino Ciaperoni at his doctoral defense
   more_info: >
     <p><i class="fa-solid fa-location-dot"></i> Office 2 (first floor), Via Roma 3, Pisa, Italy</p>
     <p><i class="fa-solid fa-envelope"></i> <a href="mailto:martino.ciaperoni@sns.it">martino.ciaperoni@sns.it</a></p>
 
-quick_links:
-  - name: CV
-    url: /assets/pdf/Martino_Ciaperoni_CV.pdf
-    icon: fa-solid fa-file-pdf
-    primary: true
-  - name: Scholar
-    url: https://scholar.google.com/citations?user=njKtJPUAAAAJ
-    icon: ai ai-google-scholar
-  - name: DBLP
-    url: https://dblp.org/pid/250/9408.html
-    icon: ai ai-dblp
-  - name: GitHub
-    url: https://github.com/maciap
-    icon: fa-brands fa-github
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/martino-ciaperoni-37a777159
-    icon: fa-brands fa-linkedin
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

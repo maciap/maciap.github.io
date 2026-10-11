@@ -72,7 +72,7 @@ nav_order: 4
 
 </div>
 
-## Thesis supervision
+## Selected thesis supervision
 
 <div class="entry-list">
 

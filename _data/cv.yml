@@ -123,31 +123,6 @@
       description:
         - Integrating machine learning functionality into database management systems; contributed to the development of the algorithmic methods.
 
-- title: Awards and Scholarships
-  type: time_table
-  contents:
-    - title: Outstanding Emergency Reviewer, ECML PKDD 2026 (Applied Data Science Track)
-      year: 2026
-    - title: Aalto Doctoral Incentive Scholarship (€2,000)
-      year: 2023
-    - title: Nokia Foundation Scholarship (€5,000), for the project "Machine Learning Meets Database Management"
-      year: 2022
-    - title: Funded doctoral positions obtained through competitive selection at Aalto University / University of Helsinki (HIIT) and Sapienza University of Rome (ranked first)
-      year: 2019
-    - title: Shell Prize for the best final-year student, University of Glasgow (€1,500)
-      year: 2017
-    - title: Merit scholarships, University of Bologna
-      year: 2015 – 2017
-
-- title: Patent
-  type: time_table
-  contents:
-    - title: "SIEVE: A Space-Efficient Method and Algorithm for Viterbi Decoding"
-      institution: Aalto University, Finland
-      year: 2022
-      description:
-        - Provisional patent application FI20227074 (inventor), related to the SIEVE technology for efficient offline speech recognition (SIGMOD 2022, Interspeech 2024).
-
 - title: Service to the Research Community
   type: time_table
   contents:
@@ -171,7 +146,7 @@
           link: https://github.com/maciap/AgenticAIReadingGroup
     - title: Reviewer for conferences including KDD, AAAI and ECML PKDD, and journals including JMLR, DMKD and IEEE TKDE
 
-- title: Talks and Presentations
+- title: Selected Talks and Presentations
   type: time_table
   contents:
     - title: "ECML PKDD 2026, Naples — Virgil: Navigating Explainability for Transformer-based Language Models (oral and demo)"
@@ -195,7 +170,7 @@
     - title: "EDBT 2022 — Workload-Aware Materialization of Junction Trees (oral, remote)"
       year: 2022
 
-- title: Teaching and Supervision
+- title: Selected Teaching and Supervision
   type: time_table
   contents:
     - title: Teaching assistance, Introduction to Machine Learning — Scuola Normale Superiore
@@ -214,5 +189,7 @@
 - title: Outreach
   type: list
   contents:
-    - Research covered by Scuola Normale Superiore news, La Nazione and eXL Magazine (explainable AI for science), the University of Copenhagen, Tech Xplore and EurekAlert! (SIEVE, low-memory speech recognition), and the Tokyo Institute of Technology (temporal networks).
+    - "Explainable AI and AI for science: <a href=\"https://normalenews.sns.it/una-piattaforma-di-intelligenza-artificiale-trasparente-e-responsabile-in-ambito-biomedico-per-ricerche-sul-cancro-e-lo-sviluppo-di-nuovi-farmaci\">Scuola Normale Superiore news</a>, <a href=\"https://www.lanazione.it/pisa/cronaca/intelligenza-artificiale-contro-il-cancro-la-scuola-normale-vince-un-finanziamento-ue-4aed5af2\">La Nazione</a>, <a href=\"https://issuu.com/exl_magazine/docs/exl_-_magazine_sulle_eccellenze_tos_9196ad9ae4c67d\">eXL Magazine</a>."
+    - "Low-memory speech recognition (SIEVE): <a href=\"https://science.ku.dk/english/press/news/2024/coming-soon--offline-speech-recognition-on-your-phone\">University of Copenhagen</a>, <a href=\"https://techxplore.com/news/2024-12-offline-speech-recognition.html\">Tech Xplore</a>, <a href=\"https://www.eurekalert.org/news-releases/1068065\">EurekAlert!</a>."
+    - "Temporal networks: <a href=\"https://www.irfi.titech.ac.jp/wrhi-archive/en/news/announcement/8733/index.html\">Tokyo Institute of Technology</a>."
     - Aalto University Alumni Ambassador, Pisa (2026 – now).
