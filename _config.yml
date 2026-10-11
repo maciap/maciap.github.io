@@ -11,8 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Martino Ciaperoni, postdoctoral researcher at Scuola Normale Superiore (Pisa, Italy).
   Research on explainable and trustworthy AI, large language models, AI for science,
   interpretable machine learning, and efficient algorithms for data mining and data management.
-footer_text: >
-  &copy; 2026 Martino Ciaperoni.
+footer_text:
 keywords: Martino Ciaperoni, explainable AI, trustworthy AI, large language models, AI for science, interpretable machine learning, data mining, data management, machine learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
