@@ -1,43 +1,218 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Martino Ciaperoni
+    - name: Position
+      value: Postdoctoral Researcher, Scuola Normale Superiore, Pisa, Italy
     - name: Email
       value: martino.ciaperoni@sns.it
+    - name: Profiles
+      links:
+        - name: Google Scholar
+          link: https://scholar.google.com/citations?user=njKtJPUAAAAJ
+        - name: DBLP
+          link: https://dblp.org/pid/250/9408.html
+        - name: ORCID
+          link: https://orcid.org/0009-0009-7581-2031
+        - name: GitHub
+          link: https://github.com/maciap
     - name: Languages
-      value: English, Italian
+      value: Italian (native), English (fluent), Finnish (basic)
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Postdoctoral Researcher
       institution: Scuola Normale Superiore, Pisa, Italy
-      year: 2025-present
+      department: Data Science and Human-centered AI Group & KDD Lab (PI Prof. Fosca Giannotti)
+      year: 2025 – now
+      description:
+        - Research on explainable and trustworthy AI, with a focus on large language model behavior and applications to scientific discovery.
+        - Work Package and Task Leader in the ERC Proof of Concept project ILLUME-4-Science.
+        - Contributor to technology transfer (TRL 3 to TRL 5) and industrial collaborations, including ongoing work with Accenture on evaluation metrics for large language model explanations.
 
     - title: Postdoctoral Researcher
-      institution: Aalto University and Helen Oy, Espoo, Finland
-      year: 2024-2025
+      institution: Aalto University, Espoo, Finland
+      department: Department of Computer Science (PI Prof. Heikki Mannila)
+      year: 2023 – 2025
+      description:
+        - Research on dimensionality reduction, low-rank approximation, clustering, and linear-algebraic methods for machine learning.
+        - Industrial collaboration with Helen Oy and House of AI on forecasting district-heating consumption using real-world data.
+
+    - title: Doctoral Researcher
+      institution: Aalto University, Espoo, Finland
+      department: Data Mining Group (PI Prof. Aristides Gionis)
+      year: 2019 – 2023
+      description:
+        - Research on efficient and trustworthy algorithms for data mining and machine learning, within the Academy of Finland project Model Management Systems — Machine Learning meets Database Systems (MLDB).
+        - Research visits to Aarhus University, Denmark (2022, invited by Prof. Panagiotis Karras) and KTH Royal Institute of Technology, Sweden (2023, invited by Prof. Aristides Gionis).
 
     - title: Research Intern and Master's Thesis Student
       institution: ISI Foundation, Turin, Italy
-      year: 2018-2019
+      department: Algorithmic Data Analytics Group (PI Dr. Francesco Bonchi)
+      year: 2018 – 2019
+      description:
+        - Research on temporal network analysis, focusing on extracting dense substructures and understanding spreading dynamics.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science
+    - title: D.Sc. (Tech.) in Computer Science
       institution: Aalto University, Espoo, Finland
-      year: 2019-2024
+      year: 2024
+      description:
+        - "Thesis: Efficient and Trustworthy Methods for Knowledge Discovery."
+        - "Advisor: Prof. Aristides Gionis. Opponent: Prof. Angela Bonifati (Université de Lyon)."
+      linkitems:
+        - linkname: thesis
+          link: https://aaltodoc.aalto.fi/items/079e412c-2b5d-4565-a7ca-966adb6170a9
 
-    - title: MSc in Data Science
+    - title: M.Sc. in Data Science
       institution: Sapienza University of Rome, Rome, Italy
-      year: 2017-2019
+      year: 2019
+      description:
+        - 110/110 cum laude (average grade 30/30).
+        - "Thesis: Applications of the Temporal Core Decomposition in the Analysis of Temporal Networks. Supervisors: Dr. Francesco Bonchi and Prof. Stefano Leonardi."
 
-    - title: BSc in Statistics and Mathematics
-      institution: Alma Mater Studiorum - University of Bologna, Bologna, Italy
-      year: 2014-2017
-
-    - title: BSc in Statistics
-      institution: University of Glasgow, Glasgow, Scotland
+    - title: B.Sc. in Statistics — Double Degree
+      institution: University of Bologna, Italy & University of Glasgow, UK
       year: 2017
+      description:
+        - "University of Bologna: 110/110 cum laude (average grade 30/30). University of Glasgow: B.Sc. (Hons), First Class Honours."
+        - "Thesis: Facial Ageing. Supervisors: Prof. Adrian Bowman and Prof. Angela Montanari."
+
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: ILLUME-4-Science — ERC Proof of Concept (Horizon Europe)
+      institution: Scuola Normale Superiore and University of Pisa
+      year: 2026 – 2027
+      description:
+        - Work Package Leader (WP1, Demonstrating Scientific Impact) and Task Leader (risk factor identification; conversational interface for exploring explanations).
+        - Explainable AI for scientific and biomedical applications, in collaboration with partners including the University of Pisa and the German Cancer Research Center.
+
+    - title: XAI — Science and Technology for the Explanation of AI Decision Making (ERC Advanced Grant)
+      institution: Scuola Normale Superiore
+      year: 2025
+      description:
+        - Postdoctoral research on interpretability and explainability of machine learning models.
+
+    - title: FAIR — Future Artificial Intelligence Research (PNRR), Spoke 1 "Human-Centered AI"
+      institution: Scuola Normale Superiore
+      year: 2025
+      description:
+        - Research on human-centered, trustworthy and explainable AI.
+        - "Technology transfer: development and validation of ILLUME 1.0, an open-source explainable AI library for scientific and biomedical applications, and of an end-to-end pipeline for predicting response to anticancer drugs from transcriptomics data (TRL 3 to TRL 5)."
+
+    - title: Industrial collaboration with Accenture
+      institution: Scuola Normale Superiore
+      year: 2026 – now
+      description:
+        - Evaluation metrics for the outputs of explainable AI methods for large language models.
+
+    - title: Industrial collaboration with Helen Oy and House of AI
+      institution: Aalto University
+      year: 2024 – 2025
+      description:
+        - Machine learning and data analysis for the energy sector, with a focus on district-heating time series and consumption forecasting.
+
+    - title: MLDB — Model Management Systems, Machine Learning meets Database Systems (Academy of Finland)
+      institution: Aalto University and University of Helsinki
+      year: 2019 – 2023
+      description:
+        - Integrating machine learning functionality into database management systems; contributed to the development of the algorithmic methods.
+
+- title: Awards and Scholarships
+  type: time_table
+  contents:
+    - title: Outstanding Emergency Reviewer, ECML PKDD 2026 (Applied Data Science Track)
+      year: 2026
+    - title: Aalto Doctoral Incentive Scholarship (€2,000)
+      year: 2023
+    - title: Nokia Foundation Scholarship (€5,000), for the project "Machine Learning Meets Database Management"
+      year: 2022
+    - title: Funded doctoral positions obtained through competitive selection at Aalto University / University of Helsinki (HIIT) and Sapienza University of Rome (ranked first)
+      year: 2019
+    - title: Shell Prize for the best final-year student, University of Glasgow (€1,500)
+      year: 2017
+    - title: Merit scholarships, University of Bologna
+      year: 2015 – 2017
+
+- title: Patent
+  type: time_table
+  contents:
+    - title: "SIEVE: A Space-Efficient Method and Algorithm for Viterbi Decoding"
+      institution: Aalto University, Finland
+      year: 2022
+      description:
+        - Provisional patent application FI20227074 (inventor), related to the SIEVE technology for efficient offline speech recognition (SIGMOD 2022, Interspeech 2024).
+
+- title: Service to the Research Community
+  type: time_table
+  contents:
+    - title: Co-organizer, 1st Workshop on Generative AI for Social Good and Vulnerable Populations (GenAI4SG) at ACM CIKM 2026
+      year: 2026
+      linkitems:
+        - linkname: website
+          link: https://genai4sg.github.io/CIKM2026/
+    - title: Guest Editor, special issue "Generative AI for Vulnerable and Underserved Populations", Information Processing & Management (Elsevier)
+      year: 2026
+    - title: Session Chair, "Large Language Models and AI in Biology and Medicine", ECML PKDD 2026
+      year: 2026
+    - title: Program Committee member, workshops at ECML PKDD 2026 (XKDD, SHIELD-AI, SAI4OID)
+      year: 2026
+    - title: Co-organizer, ILLUME-4-Science project kick-off event, Pisa
+      year: 2026
+    - title: Organizer, reading group on agentic AI, Pisa
+      year: 2026
+      linkitems:
+        - linkname: website
+          link: https://github.com/maciap/AgenticAIReadingGroup
+    - title: Reviewer for conferences including KDD, AAAI and ECML PKDD, and journals including JMLR, DMKD and IEEE TKDE
+
+- title: Talks and Presentations
+  type: time_table
+  contents:
+    - title: "ECML PKDD 2026, Naples — Virgil: Navigating Explainability for Transformer-based Language Models (oral and demo)"
+      year: 2026
+    - title: "KDD 2026, Jeju Island — Explainable AI for Cancer Drug Response Prediction: Beyond Univariate Feature Attributions (poster)"
+      year: 2026
+    - title: "ECML PKDD 2025, Porto — Sample and Expand: Discovering Low-Rank Submatrices With Quality Guarantees (oral and poster)"
+      year: 2025
+    - title: "International Artificial Intelligence Summer School (IAISS 2025), Castiglione della Pescaia — Explainable AI for Science (poster)"
+      year: 2025
+    - title: "ECML PKDD 2024, Vilnius — The Hadamard Decomposition Problem (oral and poster)"
+      year: 2024
+    - title: "KDD 2024, Barcelona — Efficient Exploration of the Rashomon Set of Rule-Set Models (oral and poster)"
+      year: 2024
+    - title: "Invited seminar, CENTAI Institute, Turin — Efficient and Trustworthy Methods for Knowledge Discovery"
+      year: 2023
+    - title: "ICDM 2022, Orlando — Concise and Interpretable Multi-Label Rule Sets (oral)"
+      year: 2022
+    - title: "SIGMOD 2022 — SIEVE: A Space-Efficient Algorithm for Viterbi Decoding (oral, remote)"
+      year: 2022
+    - title: "EDBT 2022 — Workload-Aware Materialization of Junction Trees (oral, remote)"
+      year: 2022
+
+- title: Teaching and Supervision
+  type: time_table
+  contents:
+    - title: Teaching assistance, Introduction to Machine Learning — Scuola Normale Superiore
+      year: 2026
+    - title: Guest lecture on large language models, Blockchain e Intelligenza Artificiale — University of Pisa
+      year: 2026
+    - title: Guest lecture on interpretability and explainability of large language models, Explainable Artificial Intelligence — Scuola Normale Superiore
+      year: 2026
+    - title: Guest lectures (temporal and social networks), Methods of Data Mining — Aalto University
+      year: 2021, 2024
+    - title: Teaching assistant, Methods of Data Mining — Aalto University
+      year: 2021, 2022, 2024
+    - title: Supervision of one MSc and two BSc theses at Aalto University; co-supervision of an ongoing MSc thesis at the University of Pisa and Scuola Normale Superiore
+      year: 2024 – now
+
+- title: Outreach
+  type: list
+  contents:
+    - Research covered by Scuola Normale Superiore news, La Nazione and eXL Magazine (explainable AI for science), the University of Copenhagen, Tech Xplore and EurekAlert! (SIEVE, low-memory speech recognition), and the Tokyo Institute of Technology (temporal networks).
+    - Aalto University Alumni Ambassador, Pisa (2026 – now).

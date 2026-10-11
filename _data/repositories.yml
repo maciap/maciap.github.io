@@ -1,10 +1,19 @@
-github_users:
-  - maciap
-
-repo_description_lines_max: 2
-
-github_repos:
-  - maciap/KhatriRaoClustering
-  - maciap/SaE
-  - maciap/HadamardDecomposition
-  - maciap/Virgil
+featured:
+  - repo: maciap/Virgil
+    description: Interactive system for exploring and teaching mechanistic interpretability and explainability methods for transformer-based language models.
+    paper: ECML PKDD 2026 (Demo Track)
+  - repo: maciap/KhatriRaoClustering
+    description: Khatri-Rao clustering, a paradigm that extends traditional clustering to obtain more compact data summaries.
+    paper: EDBT 2026
+  - repo: maciap/SaE
+    description: Data and code for Sample and Expand, a method for discovering low-rank submatrices with quality guarantees.
+    paper: ECML PKDD 2025
+  - repo: maciap/FairPrincipalComponents
+    description: Code for fair principal component analysis, one component at a time.
+    paper: arXiv preprint, 2025
+  - repo: maciap/HadamardDecomposition
+    description: Algorithms for the Hadamard decomposition problem.
+    paper: Data Mining and Knowledge Discovery, 2024
+  - repo: maciap/PEANUT
+    description: Workload-aware materialization for efficient junction tree inference.
+    paper: EDBT 2022
