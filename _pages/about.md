@@ -8,7 +8,7 @@ profile:
   image: phdDefense.jpeg
   alt: Martino Ciaperoni at his doctoral defense
   more_info: >
-    <p><i class="fa-solid fa-location-dot"></i> Office 2 (first floor), Via Roma 3, Pisa, Italy</p>
+    <p><i class="fa-solid fa-location-dot"></i> <a href="https://www.google.com/maps/search/?api=1&query=Via+Roma+3,+Pisa,+Italy" target="_blank" rel="noopener noreferrer">Office 2 (first floor), Via Roma 3, Pisa, Italy</a></p>
     <p><i class="fa-solid fa-envelope"></i> <a href="mailto:martino.ciaperoni@sns.it">martino.ciaperoni@sns.it</a></p>
 
 
@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher at [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, in the Data Science and Human-centered AI group and the [KDD Lab](https://kdd.isti.cnr.it/) led by Prof. Fosca Giannotti. My current research focuses on **explainable and trustworthy AI**, the **evaluation and explanation of large language model behavior**, and **applications of AI to scientific discovery**. I am a work package and task leader in the ERC Proof of Concept project **ILLUME-4-Science**.
+I am a postdoctoral researcher at [Scuola Normale Superiore](https://www.sns.it/en) in Pisa, in the Data Science and Human-centered AI group and the [KDD Lab](https://kdd.isti.cnr.it/) led by Prof. Fosca Giannotti. My current research focuses on **explainable and trustworthy AI**, the **evaluation and explanation of large language model behavior**, including **behavioral shifts**, and **applications of AI to scientific discovery**. I am a work package and task leader in the ERC Proof of Concept project **ILLUME-4-Science**.
 
-Previously, I was a postdoctoral researcher at [Aalto University](https://www.aalto.fi/en) with Prof. Heikki Mannila, and I received my D.Sc. (Tech.) in Computer Science from Aalto University in 2024, advised by Prof. Aristides Gionis. Before that, I studied statistics and data science at the University of Bologna, the University of Glasgow, and Sapienza University of Rome, and did research at ISI Foundation in Turin.
+Previously, I was a postdoctoral researcher at [Aalto University](https://www.aalto.fi/en) with Prof. Heikki Mannila, and I received my D.Sc. (Tech.) in Computer Science from Aalto University in 2024, advised by Prof. Aristides Gionis. Before that, I studied statistics and data science at the University of Bologna, the University of Glasgow, and Sapienza University of Rome, and carried out research at ISI Foundation in Turin with Dr. Francesco Bonchi.
 
 My work has appeared at venues including **NeurIPS**, **KDD**, **SIGMOD**, **IJCAI**, **ICDE**, **ICDM** and **ECML PKDD**, and in journals such as *Data Mining and Knowledge Discovery* and *ACM Transactions on Knowledge Discovery from Data*.
 
@@ -32,14 +32,14 @@ My work has appeared at venues including **NeurIPS**, **KDD**, **SIGMOD**, **IJC
   </div>
   <div class="research-card">
     <h3><i class="fa-solid fa-dna"></i> AI for science</h3>
-    <p>Explainable AI for biomedical applications, such as cancer drug response prediction and risk factor identification from high-dimensional data.</p>
+    <p>Machine learning and explainable AI methods that support scientific discovery, with a focus on biomedical applications.</p>
   </div>
   <div class="research-card">
     <h3><i class="fa-solid fa-list-check"></i> Interpretable machine learning</h3>
-    <p>Concise, interpretable rule-based models and the exploration of the Rashomon set of equally accurate models.</p>
+    <p>Machine learning models that are transparent by design, and reliable model selection when many models perform equally well.</p>
   </div>
   <div class="research-card">
     <h3><i class="fa-solid fa-gears"></i> Efficient algorithms for data</h3>
-    <p>Matrix decompositions, low-rank approximation and clustering, efficient probabilistic inference, path optimization, and temporal network analysis.</p>
+    <p>Scalable and principled algorithms for data mining, data management, and machine learning.</p>
   </div>
 </div>

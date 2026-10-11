@@ -306,10 +306,11 @@ h2.section-heading {
         font-weight: 600;
         letter-spacing: 0.02em;
         white-space: normal;
-        color: var(--global-theme-color);
-        background-color: var(--accent-soft) !important;
-        border: 1px solid var(--accent-border);
+        color: var(--global-hover-text-color) !important;
+        background-color: var(--global-theme-color) !important;
+        border: none;
         border-radius: 6px;
+        box-shadow: none;
         text-decoration: none;
       }
     }
@@ -383,9 +384,9 @@ h2.section-heading {
   }
 
   .badge.danger-color-dark {
-    background-color: var(--accent-soft) !important;
-    color: var(--global-theme-color) !important;
-    border: 1px solid var(--accent-border);
+    background-color: var(--global-theme-color) !important;
+    color: var(--global-hover-text-color) !important;
+    box-shadow: none;
     font-weight: 600 !important;
     text-transform: none !important;
     white-space: normal;
